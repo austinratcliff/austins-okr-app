@@ -1,0 +1,23 @@
+{
+  "name": "austins-okr-app",
+  "description": "An Intercom Messenger App.",
+  "version": "0.0.1",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "intercom-client": "^2.10.4"
+  },
+  "repository": {
+    "url": "https://github.com/austinratcliff/austins-okr-app"
+  },
+  "license": "MIT",
+  "keywords": [
+    "glitch",
+    "node",
+    "express",
+    "intercom"
+  ]
+}
